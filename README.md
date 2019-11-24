@@ -7,4 +7,7 @@ https://www.codechef.com/certification/data-structures-and-algorithms/prepare#ad
 2. Coding Blocks. 
 https://blog.codingblocks.com/2019/start-with-competitive-programming/
 
+3. Hackerearth 
+https://www.hackerearth.com/practice/
+
 
