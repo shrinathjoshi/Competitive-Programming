@@ -10,4 +10,8 @@ https://blog.codingblocks.com/2019/start-with-competitive-programming/
 3. Hackerearth 
 https://www.hackerearth.com/practice/
 
+4. Firecode
+https://www.firecode.io/pages/landing
 
+5. Hackmd.io
+https://hackmd.io/@nesquena/SJIV-n7B?type=view
