@@ -1,4 +1,4 @@
-# Competitive-Programming
+# Competitive-Programming Resources
 
 Best Resources to Learn Competitive Programming
 1. CodeChef Certified Data Structure & Algorithms Programme (CCDSAP) 
