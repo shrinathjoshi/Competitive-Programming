@@ -18,3 +18,6 @@ https://hackmd.io/@nesquena/SJIV-n7B?type=view
 
 6. Topcoder
 https://www.topcoder.com/community/competitive-programming/tutorials/
+
+7. Topcoder archived problem 
+https://community.topcoder.com/stat?c=round_overview&er=5&rd=17720
